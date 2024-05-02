@@ -44,7 +44,7 @@ BRINQUEDOS
 
 ## How to use
 - Configure o arquivo `application.properties` com as configurações do seu banco de dados.
-![properties](https://github.com/diegohs13/CP2_JAVA/blob/main/post.png)
+![properties](https://github.com/diegohs13/CP2_JAVA/blob/main/properties.png)
 
 - Execute a classe `Cp2JavaApplication.java` para iniciar a aplicação.
 ![application](https://github.com/diegohs13/CP2_JAVA/blob/main/javaApplication.png)
