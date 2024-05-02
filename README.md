@@ -41,7 +41,23 @@ BRINQUEDOS
 - classificacao
 - tipo
 - descricao<br>
-  <br>
+
+## How to use
+- Configure o arquivo `application.properties` com as configurações do seu banco de dados.
+![properties](https://github.com/diegohs13/CP2_JAVA/blob/main/post.png)
+
+- Execute a classe `Cp2JavaApplication.java` para iniciar a aplicação.
+![application](https://github.com/diegohs13/CP2_JAVA/blob/main/javaApplication.png)
+
+- Utilize o Postman ou Insomnia para testar os endpoints.
+- Utilize o método GET para visualizar os brinquedos cadastrados.
+![get1](https://github.com/diegohs13/CP2_JAVA/blob/main/get1.png)
+
+- Utilize o método POST para cadastrar um novo brinquedo.
+![post](https://github.com/diegohs13/CP2_JAVA/blob/main/post.png)
+
+- Utilize o método GET com o id do brinquedo para visualizar os dados de um brinquedo específico.
+![get2](https://github.com/diegohs13/CP2_JAVA/blob/main/get2.png)
 
 ## Nome da Aplicação
 Easy Toy
