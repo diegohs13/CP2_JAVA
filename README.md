@@ -43,6 +43,9 @@ BRINQUEDOS
 - descricao<br>
 
 ## How to use
+- Configuração do spring initializer.
+![spring](https://github.com/diegohs13/CP2_JAVA/blob/main/start.spring.io.png)
+
 - Configure o arquivo `application.properties` com as configurações do seu banco de dados.
 ![properties](https://github.com/diegohs13/CP2_JAVA/blob/main/properties.png)
 
